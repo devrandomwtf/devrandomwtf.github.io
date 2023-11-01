@@ -1,2 +1,3 @@
-# devrandomwtf.github.io
+# Dev Random WTF
+
 Public website
